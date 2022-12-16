@@ -1,2 +1,2 @@
 # ChatLND
-CHAT con Firebase, CSS y javascript
+CHAT creado con Firebase, CSS y javascript
